@@ -1,0 +1,23 @@
+# KiCad 7 Local Workspace State
+*.kicad_prl
+
+# Temporary and Auto-Save Files
+*-bak
+*-backups/
+*.000
+*.tmp
+*~
+~*.lck
+
+# Cache Directories
+fp-info-cache
+
+# Netlists and Freerouting Files (if used)
+*.net
+*.dsn
+*.ses
+
+# Optional: Manufactured Outputs
+# Uncomment the line below if you generate Gerbers inside a 'gerbers' folder
+Gerbers/
+Gerbers.zip

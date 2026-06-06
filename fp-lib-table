@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Nav_Library")(type "KiCad")(uri "${KIPRJMOD}/Nav_Library.pretty")(options "")(descr ""))
+)
